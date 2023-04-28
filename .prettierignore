@@ -1,0 +1,8 @@
+node_modules
+README.md
+.*
+artifacts
+cache
+.gitignore
+coverage
+coverage.json
